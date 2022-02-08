@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm(WInter)", "Algorithm(WInter)\Algorithm(WInter).csproj", "{E2A64EDB-371D-4B95-AB68-F9A981AB049F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A64EDB-371D-4B95-AB68-F9A981AB049F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A64EDB-371D-4B95-AB68-F9A981AB049F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A64EDB-371D-4B95-AB68-F9A981AB049F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A64EDB-371D-4B95-AB68-F9A981AB049F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7155ADE5-F974-41AD-A52C-B2BB7985D180}
+	EndGlobalSection
+EndGlobal
